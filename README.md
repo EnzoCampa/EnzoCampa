@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EnzoCampa
+- 👀 I’m interested in automating
+- 🌱 I’m currently learning at EPSI MTP in DEVOPS
